@@ -1,1 +1,1 @@
-A "visual" representation of number types.
+doc/usr/descr.txt
