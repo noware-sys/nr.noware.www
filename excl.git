@@ -1,0 +1,8 @@
+# Logs
+*.log
+*.journal
+
+# Custom
+known_hosts
+
+# Temporary

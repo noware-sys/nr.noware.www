@@ -1,0 +1,27 @@
+fieldset
+{
+	margin-top: 0.75em;
+	/*margin-left: 0.25em;*/
+}
+
+fieldset.header
+{
+	margin-top: initial;
+}
+
+.primary
+{
+	font-weight: bold;
+}
+
+.extended
+{
+	font-style: italic;
+}
+
+.example
+{
+	margin-top: 0.5em;
+	display: inline-block;
+}
+
